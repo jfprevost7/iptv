@@ -1,22 +1,22 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="LCN(src01).ca" tvg-name="LCN" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada FRENCH",LCN
+#EXTINF:-1 tvg-id="LCN(src01).ca" tvg-name="LCN" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada(FR)",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noovo" tvg-logo="" group-title="Canada FRENCH",Noovo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noovo" tvg-logo="" group-title="Canada(FR)",Noovo
 https://xyzdddd.mizhls.ru/lb/premium835/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS" tvg-logo="" group-title="Canada FRENCH",RDS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS" tvg-logo="" group-title="Canada(FR)",RDS
 https://xyzdddd.mizhls.ru/lb/premium839/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS 2" tvg-logo="" group-title="Canada FRENCH",RDS 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS 2" tvg-logo="" group-title="Canada(FR)",RDS 2
 https://xyzdddd.mizhls.ru/lb/premium840/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS Info" tvg-logo="" group-title="Canada FRENCH",RDS Info
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS Info" tvg-logo="" group-title="Canada(FR)",RDS Info
 https://xyzdddd.mizhls.ru/lb/premium841/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA" tvg-logo="" group-title="Canada FRENCH",TVA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA" tvg-logo="" group-title="Canada(FR)",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports" tvg-logo="" group-title="Canada FRENCH",TVA Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports" tvg-logo="" group-title="Canada(FR)",TVA Sports
 https://xyzdddd.mizhls.ru/lb/premium833/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports 2" tvg-logo="" group-title="Canada FRENCH",TVA Sports 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports 2" tvg-logo="" group-title="Canada(FR)",TVA Sports 2
 https://xyzdddd.mizhls.ru/lb/premium834/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews" tvg-logo="" group-title="France",Euronews
-https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8
+https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="" group-title="France",beIN Sports 1
 https://xyzdddd.mizhls.ru/lb/premium116/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="" group-title="France",beIN Sports 2
@@ -389,36 +389,6 @@ https://xyzdddd.mizhls.ru/lb/premium115/index.m3u8|Referer="https://ilovetoplay.
 https://xyzdddd.mizhls.ru/lb/premium40/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="SPORTS",TUDN
 https://xyzdddd.mizhls.ru/lb/premium66/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 1" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 1
-https://xyzdddd.mizhls.ru/lb/premium700/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 2" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 2
-https://xyzdddd.mizhls.ru/lb/premium701/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 3" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 3
-https://xyzdddd.mizhls.ru/lb/premium702/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 4" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 4
-https://xyzdddd.mizhls.ru/lb/premium703/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 5" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 5
-https://xyzdddd.mizhls.ru/lb/premium704/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 6" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 6
-https://xyzdddd.mizhls.ru/lb/premium705/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 7" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 7
-https://xyzdddd.mizhls.ru/lb/premium706/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 8" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 8
-https://xyzdddd.mizhls.ru/lb/premium707/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 9" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 9
-https://xyzdddd.mizhls.ru/lb/premium708/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 10" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 10
-https://xyzdddd.mizhls.ru/lb/premium709/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 11" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 11
-https://xyzdddd.mizhls.ru/lb/premium710/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 12" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 12
-https://xyzdddd.mizhls.ru/lb/premium711/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 13" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 13
-https://xyzdddd.mizhls.ru/lb/premium712/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 14" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 14
-https://xyzdddd.mizhls.ru/lb/premium713/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 15" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS",Tennis+ 15
-https://xyzdddd.mizhls.ru/lb/premium714/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-name="Viaplay Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="SPORTS",Viaplay Sports 1
 https://xyzdddd.mizhls.ru/lb/premium451/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-name="Viaplay Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="SPORTS",Viaplay Sports 2
