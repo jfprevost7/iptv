@@ -1,4 +1,6 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LCN" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="Canada FRENCH",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noovo" tvg-logo="" group-title="Canada FRENCH",Noovo
 https://xyzdddd.mizhls.ru/lb/premium835/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS" tvg-logo="" group-title="Canada FRENCH",RDS
@@ -17,10 +19,14 @@ https://xyzdddd.mizhls.ru/lb/premium116/index.m3u8|Referer="https://ilovetoplay.
 https://xyzdddd.mizhls.ru/lb/premium117/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3" tvg-logo="" group-title="France",beIN Sports 3
 https://xyzdddd.mizhls.ru/lb/premium118/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="C8" tvg-logo="https://i.imgur.com/40mdgqQ.png" group-title="France",C8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 1" tvg-logo="" group-title="France",RMC Sport 1
 https://xyzdddd.mizhls.ru/lb/premium119/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC Sport 2" tvg-logo="" group-title="France",RMC Sport 2
 https://xyzdddd.mizhls.ru/lb/premium120/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="France",RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA",ABC
 https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA",A&E
