@@ -9,10 +9,14 @@ https://xyzdddd.mizhls.ru/lb/premium839/index.m3u8|Referer="https://ilovetoplay.
 https://xyzdddd.mizhls.ru/lb/premium840/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS Info" tvg-logo="" group-title="Canada FRENCH",RDS Info
 https://xyzdddd.mizhls.ru/lb/premium841/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA" tvg-logo="" group-title="Canada FRENCH",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports" tvg-logo="" group-title="Canada FRENCH",TVA Sports
 https://xyzdddd.mizhls.ru/lb/premium833/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVA Sports 2" tvg-logo="" group-title="Canada FRENCH",TVA Sports 2
 https://xyzdddd.mizhls.ru/lb/premium834/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews" tvg-logo="" group-title="France",Euronews
+https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="" group-title="France",beIN Sports 1
 https://xyzdddd.mizhls.ru/lb/premium116/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="" group-title="France",beIN Sports 2
