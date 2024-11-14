@@ -507,3 +507,943 @@ https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8|Referer="https://ilovetoplay.x
 https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 #EXTINF:-1 tvg-id="8228" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="SPORTS MISC",SuperSport MaXimo 1
 https://xyzdddd.mizhls.ru/lb/premium572/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv9pd6a36ejjy984"
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Kymani’s cable tv ",A&E
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/59056.ts
+#EXTINF:-1 tvg-id="ABCLocalishNetwork.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="Kymani’s cable tv ",ABC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/22990.ts
+#EXTINF:-1 tvg-id="ABCSpark(English).ca" tvg-name="ABC Spark" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75117_dark_360w_270h.png" group-title="Kymani’s cable tv ",ABC Spark
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57375.ts
+#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-name="Adult Swim " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92160_dark_360w_270h.png" group-title="Kymani’s cable tv ",Adult Swim 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/11644.ts
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Kymani’s cable tv ",AMC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/18925.ts
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="AMC Thrillers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114759_dark_360w_270h.png" group-title="Kymani’s cable tv ",AMC Thrillers
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66243.ts
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Kymani’s cable tv ",American Heroes Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10456.ts
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Kymani’s cable tv ",Animal Planet
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17870.ts
+#EXTINF:-1 tvg-id="Antenna20Years(Greek).us" tvg-name="Antenna TV" tvg-logo="https://antennatv.tv/wp-content/uploads/2022/04/ATV2022_Orange-Logo.png" group-title="Kymani’s cable tv ",Antenna TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20180.ts
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="Aspire " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97409_dark_360w_270h.png" group-title="Kymani’s cable tv ",Aspire 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21927.ts
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="AXS TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="Kymani’s cable tv ",AXS TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/48324.ts
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="Baby First" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50338_dark_360w_270h.png" group-title="Kymani’s cable tv ",Baby First
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/58765.ts
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Kymani’s cable tv ",BBC America
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20194.ts
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Kymani’s cable tv ",BET
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46703.ts
+#EXTINF:-1 tvg-id="betgospel.us" tvg-name="Bet Gospel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16484_dark_360w_270h.png" group-title="Kymani’s cable tv ",Bet Gospel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66080.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="BET Her" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Kymani’s cable tv ",BET Her
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/137790.ts
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET SOUL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18718_dark_360w_270h.png" group-title="Kymani’s cable tv ",BET SOUL
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21844.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BNC_logo_2021.png/640px-BNC_logo_2021.png" group-title="Kymani’s cable tv ",Black News Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/176811.ts
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="Kymani’s cable tv ",Bloomberg
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/15158.ts
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kymani’s cable tv ",Boomerang
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/14741.ts
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="Bounce XL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="Kymani’s cable tv ",Bounce XL
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/48323.ts
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Kymani’s cable tv ",Bravo
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20859.ts
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="BUZZR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/1200px-Buzzr_logo.svg.png" group-title="Kymani’s cable tv ",BUZZR
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21896.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cartoon Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46708.ts
+#EXTINF:-1 tvg-id="decadeswvah.us" tvg-name="Catchy Comedy " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/1200px-Catchy_Comedy_logo.svg.png" group-title="Kymani’s cable tv ",Catchy Comedy 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20189.ts
+#EXTINF:-1 tvg-id="Cbs" tvg-name="CBS News" tvg-logo="https://uofsdw184.wordpress.com/wp-content/uploads/2016/10/cbs-logo-old.png" group-title="Kymani’s cable tv ",CBS News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21259.ts
+#EXTINF:-1 tvg-id="ABSCBNNewsChannel.us" tvg-name="CBSN New York" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/75851A45-4183-4103-B130-19864D1E84A3.png/revision/latest?cb=20200122220933" group-title="Kymani’s cable tv ",CBSN New York
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46754.ts
+#EXTINF:-1 tvg-id="charge.us" tvg-name="CHARGE!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102148_dark_360w_270h.png" group-title="Kymani’s cable tv ",CHARGE!
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/79594.ts
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13380.ts
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="Cinemax 5 StarMax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax 5 StarMax
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13381.ts
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="Cinemax ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax ActionMAX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21013.ts
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="Cinemax MoreMax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax MoreMax
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17776.ts
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="Cinemax MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax MovieMAX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13480.ts
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="Cinemax Outermax " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59952_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax Outermax 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21012.ts
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="Cinemax ThrillerMax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cinemax ThrillerMax
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17774.ts
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Kymani’s cable tv ",CMT
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46706.ts
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Kymani’s cable tv ",CNBC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9815.ts
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="CNBC World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26849_dark_360w_270h.png" group-title="Kymani’s cable tv ",CNBC World
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20860.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Kymani’s cable tv ",CNN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/1817.ts
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Kymani’s cable tv ",Comedy Central
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/7466.ts
+#EXTINF:-1 tvg-id="comet.us" tvg-name="Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="Kymani’s cable tv ",Comet
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/125831.ts
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Kymani’s cable tv ",Cooking Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9229.ts
+#EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="Kymani’s cable tv ",Court TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21092.ts
+#EXTINF:-1 tvg-id="COZITV.us" tvg-name="Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="Kymani’s cable tv ",Cozi
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/11868.ts
+#EXTINF:-1 tvg-id="CreateandCraft.uk" tvg-name="Create " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33345_dark_360w_270h.png" group-title="Kymani’s cable tv ",Create 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/139754.ts
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="CSPAN " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Kymani’s cable tv ",CSPAN 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/136589.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CVM TV" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title="Kymani’s cable tv ",CVM TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66371.ts
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="Destination America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="Kymani’s cable tv ",Destination America
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/14222.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Kymani’s cable tv ",Discovery Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46720.ts
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kymani’s cable tv ",Discovery Family
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57347.ts
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" tvg-logo="https://logodix.com/logo/997920.png" group-title="Kymani’s cable tv ",Discovery Life
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9861.ts
+#EXTINF:-1 tvg-id="DiscoveryScience(English).ca" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="Kymani’s cable tv ",Discovery Science
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20866.ts
+#EXTINF:-1 tvg-id="DiscoveryVelocity(English).ca" tvg-name="Discovery Velocity" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44794_dark_360w_270h.png" group-title="Kymani’s cable tv ",Discovery Velocity
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46212.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="Kymani’s cable tv ",Disney Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/2206.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" group-title="Kymani’s cable tv ",Disney Jr
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/41960.ts
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/640px-Logo_Disney_XD.svg.png" group-title="Kymani’s cable tv ",Disney XD
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/75621.ts
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="DIY Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18544_dark_360w_270h.png" group-title="Kymani’s cable tv ",DIY Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10503.ts
+#EXTINF:-1 tvg-id="dogtv.us" tvg-name="DOGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82446_dark_360w_270h.png" group-title="Kymani’s cable tv ",DOGTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53539.ts
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="Kymani’s cable tv ",E! Entertainment 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/11651.ts
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" group-title="Kymani’s cable tv ",EPIX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13214.ts
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="Epix Drive IN " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68409_dark_360w_270h.png" group-title="Kymani’s cable tv ",Epix Drive IN 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/14193.ts
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="Kymani’s cable tv ",Epix Hits
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/12744.ts
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74073_dark_360w_270h.png" group-title="Kymani’s cable tv ",EPIX2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/12730.ts
+#EXTINF:-1 tvg-id="FamilyEntertainmentTelevision.us" tvg-name="Family Entertainment Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73413_dark_360w_270h.png" group-title="Kymani’s cable tv ",Family Entertainment Television
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/172481.ts
+#EXTINF:-1 tvg-id="FirstNational(English).ca" tvg-name="First Nations Experience" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89495_dark_360w_270h.png" group-title="Kymani’s cable tv ",First Nations Experience
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/139753.ts
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Kymani’s cable tv ",Food Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/7323.ts
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="Fox Business Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="Kymani’s cable tv ",Fox Business Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17639.ts
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Kymani’s cable tv ",Fox News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/1818.ts
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Kymani’s cable tv ",Freeform
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13370.ts
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Kymani’s cable tv ",Fuse
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46701.ts
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Kymani’s cable tv ",FX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46690.ts
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="FXM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png" group-title="Kymani’s cable tv ",FXM
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10260.ts
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66379_dark_360w_270h.png" group-title="Kymani’s cable tv ",FXX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46699.ts
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="Kymani’s cable tv ",FYI
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9240.ts
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="Kymani’s cable tv ",Game Show Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/120633.ts
+#EXTINF:-1 tvg-id="get.us" tvg-name="GetTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="Kymani’s cable tv ",GetTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/18366.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Kymani’s cable tv ",Golf Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46728.ts
+#EXTINF:-1 tvg-id="GreatAmericanFaithandLiving.us" tvg-name="Great American Country" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90880_dark_360w_270h.png" group-title="Kymani’s cable tv ",Great American Country
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17640.ts
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-name="Great American family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16062_dark_360w_270h.png" group-title="Kymani’s cable tv ",Great American family
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/104877.ts
+#EXTINF:-1 tvg-id="grit.us" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="Kymani’s cable tv ",Grit TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20861.ts
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Kymani’s cable tv ",Hallmark Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46719.ts
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/e/e4/Photo-output_Hallmark_Family_1996-2003.png/revision/latest?cb=20240413010855" group-title="Kymani’s cable tv ",Hallmark Family
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9307.ts
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46710_dark_360w_270h.png" group-title="Kymani’s cable tv ",Hallmark Movies & Mysteries
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10289.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Kymani’s cable tv ",HBO
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9264.ts
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Kymani’s cable tv ",HBO 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9816.ts
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="Kymani’s cable tv ",HBO Comedy
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17773.ts
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Kymani’s cable tv ",HBO Family
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17772.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59363_dark_360w_270h.png" group-title="Kymani’s cable tv ",HBO SIGNATURE
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9266.ts
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59845_dark_360w_270h.png" group-title="Kymani’s cable tv ",HBO Zone
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9265.ts
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDnet Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33668_dark_360w_270h.png" group-title="Kymani’s cable tv ",HDnet Movies
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16265.ts
+#EXTINF:-1 tvg-id="HeroesandIconsNetwork.us" tvg-name="Heroes & Icons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90401_dark_360w_270h.png" group-title="Kymani’s cable tv ",Heroes & Icons
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66087.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Kymani’s cable tv ",HGTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46717.ts
+#EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="Kymani’s cable tv ",HISTORY
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46724.ts
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Kymani’s cable tv ",HLN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17748.ts
+#EXTINF:-1 tvg-id="Hype" tvg-name="Hype TV" tvg-logo="https://luxurylifestyleawards.com/wp-content/uploads/2023/12/Hype-TV-Logo-1.png" group-title="Kymani’s cable tv ",Hype TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99572.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="ID Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Kymani’s cable tv ",ID Investigation Discovery
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46810.ts
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="Kymani’s cable tv ",IFC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9272.ts
+#EXTINF:-1 tvg-id="Info" tvg-name="Infowars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/InfoWars.svg/revision/latest/scale-to-width-down/200?cb=20180326065918" group-title="Kymani’s cable tv ",Infowars
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/78578.ts
+#EXTINF:-1 tvg-id="insp.us" tvg-name="insp" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="Kymani’s cable tv ",insp
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16262.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="ION" tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="Kymani’s cable tv ",ION
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9297.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JNN" tvg-logo="https://rjrgleanergroup.com/wp-content/uploads/2020/07/jnn_logo.png" group-title="Kymani’s cable tv ",JNN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99566.ts
+#EXTINF:-1 tvg-id="JusticeCentral.us" tvg-name="Justice Central" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Justice-central.png/revision/latest?cb=20220930102453" group-title="Kymani’s cable tv ",Justice Central
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/108547.ts
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92091_dark_360w_270h.png" group-title="Kymani’s cable tv ",Laff 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17777.ts
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Pacific)(Spanish).us" tvg-name="Latin Galavision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10222_dark_360w_270h.png" group-title="Kymani’s cable tv ",Latin Galavision
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/58770.ts
+#EXTINF:-1 tvg-id="UnivisionTLNovelas(Spanish).us" tvg-name="Latin Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74550_dark_360w_270h.png" group-title="Kymani’s cable tv ",Latin Univision
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/108248.ts
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Kymani’s cable tv ",Lifetime
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46714.ts
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Kymani’s cable tv ",Lifetime Movies
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20863.ts
+#EXTINF:-1 tvg-id="logo.us" tvg-name="LOGO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Kymani’s cable tv ",LOGO TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20862.ts
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png" group-title="Kymani’s cable tv ",MeTV Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16149.ts
+#EXTINF:-1 tvg-id="MilitaryHistoryChannel.us" tvg-name="Military History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48999_dark_360w_270h.png" group-title="Kymani’s cable tv ",Military History
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/134832.ts
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Kymani’s cable tv ",MotorTrend
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10399.ts
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15295_dark_360w_270h.png" group-title="Kymani’s cable tv ",MoviePlex
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/1829.ts
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="Kymani’s cable tv ",MSNBC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21376.ts
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://i.pinimg.com/originals/78/e8/98/78e8983aa371871b6bb9569ce5cf8eb6.png" group-title="Kymani’s cable tv ",MTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9818.ts
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV2" tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png" group-title="Kymani’s cable tv ",MTV2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9308.ts
+#EXTINF:-1 tvg-id="NatGeoWild(src01).uk" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Nat_Geo_Wild_Logo_2006.png/revision/latest?cb=20190702030207" group-title="Kymani’s cable tv ",Nat Geo Wild
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/11664.ts
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="Kymani’s cable tv ",National Geographic
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46722.ts
+#EXTINF:-1 tvg-id="NationalGeographic(Pacific).us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Kymani’s cable tv ",National Geographic
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9277.ts
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Kymani’s cable tv ",NBC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46687.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63198_dark_360w_270h.png" group-title="Kymani’s cable tv ",NESN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46726.ts
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="Kymani’s cable tv ",Newsmax TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/18939.ts
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="Kymani’s cable tv ",NewsNation
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/161450.ts
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Jr" tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Nick-Jr-Logo-1988-1993.png" group-title="Kymani’s cable tv ",Nick Jr
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46710.ts
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://preview.redd.it/the-nickelodeon-logo-was-a-subtle-clue-that-something-v0-868ze8dnsbpc1.png?auto=webp&s=0149669a43395aa421e4efbcd8956a2837434e6f" group-title="Kymani’s cable tv ",Nickelodeon
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/38.ts
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="Nickelodeon TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="Kymani’s cable tv ",Nickelodeon TeenNick
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/140004.ts
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NickToons" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/c/c5/NickToons_TV.png/revision/latest?cb=20200213203718" group-title="Kymani’s cable tv ",NickToons
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/36.ts
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="One America News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82542_dark_360w_270h.png" group-title="Kymani’s cable tv ",One America News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21752.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Kymani’s cable tv ",Outdoor Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9244.ts
+#EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="OUTSIDE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80651_dark_360w_270h.png" group-title="Kymani’s cable tv ",OUTSIDE TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20865.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="OWN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png" group-title="Kymani’s cable tv ",OWN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46698.ts
+#EXTINF:-1 tvg-id="OxygenTrueCrime(Pacific).us" tvg-name="Oxygen" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="Kymani’s cable tv ",Oxygen
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9245.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Kymani’s cable tv ",Paramount Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16201.ts
+#EXTINF:-1 tvg-id="Pbs" tvg-name="PBS Thirteen" tvg-logo="https://static.wikia.nocookie.net/pbskids/images/f/ff/Thirteen_Logo.png/revision/latest?cb=20220414135006" group-title="Kymani’s cable tv ",PBS Thirteen
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99570.ts
+#EXTINF:-1 tvg-id="PixL.us" tvg-name="PixL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70113_dark_360w_270h.png" group-title="Kymani’s cable tv ",PixL
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21648.ts
+#EXTINF:-1 tvg-id="Poker" tvg-name="Poker Go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/PokerGO_logo.png" group-title="Kymani’s cable tv ",Poker Go
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/140814.ts
+#EXTINF:-1 tvg-id="PopTV(src01).si" tvg-name="Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="Kymani’s cable tv ",Pop
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20976.ts
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="Pursuit " tvg-logo="https://pursuitchannel.com/wp-content/uploads/2021/02/All-white-Logo.png" group-title="Kymani’s cable tv ",Pursuit 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/22888.ts
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="Kymani’s cable tv ",QVC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/117707.ts
+#EXTINF:-1 tvg-id="Real" tvg-name="Real America's Voice" tvg-logo="https://play-lh.googleusercontent.com/TIBgIfQtp1artFLK_IXBJTLRutMT1R3KFYLCcrIuQPPTEoBaacpq6Skrkz4_XKYuK1s" group-title="Kymani’s cable tv ",Real America's Voice
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/160581.ts
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="Reelz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Kymani’s cable tv ",Reelz
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10526.ts
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RetroPlex" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="Kymani’s cable tv ",RetroPlex
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETV" tvg-logo="https://www.dancehallreggaeworld.com/images/retv_logo.png" group-title="Kymani’s cable tv ",RETV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21094.ts
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="Revolt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83097_dark_360w_270h.png" group-title="Kymani’s cable tv ",Revolt
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/39276.ts
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="RFD TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63717_dark_360w_270h.png" group-title="Kymani’s cable tv ",RFD TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17868.ts
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Kymani’s cable tv ",Showtime 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46214.ts
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="Showtime 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="Kymani’s cable tv ",Showtime 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13219.ts
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="Kymani’s cable tv ",Showtime Extreme
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13220.ts
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="Showtime Family Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="Kymani’s cable tv ",Showtime Family Zone
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13481.ts
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="Showtime Next" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="Kymani’s cable tv ",Showtime Next
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9316.ts
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="Showtime Women" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25272_dark_360w_270h.png" group-title="Kymani’s cable tv ",Showtime Women
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17778.ts
+#EXTINF:-1 tvg-id="SmithsonianChannel.uk" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110553_dark_360w_270h.png" group-title="Kymani’s cable tv ",Smithsonian Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/31150.ts
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="SONY Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Kymani’s cable tv ",SONY Movies
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/2214.ts
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="Kymani’s cable tv ",Space City Home Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/213668.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="Sportsman Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="Kymani’s cable tv ",Sportsman Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/79913.ts
+#EXTINF:-1 tvg-id="StartTVNetwork.us" tvg-name="Start TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109454_dark_360w_270h.png" group-title="Kymani’s cable tv ",Start TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/137680.ts
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="Kymani’s cable tv ",Starz 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21091.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="Kymani’s cable tv ",Starz Cinema
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17775.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16311_dark_360w_270h.png" group-title="Kymani’s cable tv ",STARZ EDGE
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16143.ts
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14870_dark_360w_270h.png" group-title="Kymani’s cable tv ",STARZ ENCORE Black
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16141.ts
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102906_dark_360w_270h.png" group-title="Kymani’s cable tv ",Starz Encore Westerns
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16263.ts
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="Starz in Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16833_dark_360w_270h.png" group-title="Kymani’s cable tv ",Starz in Black
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17779.ts
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="Sundance TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Kymani’s cable tv ",Sundance TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46712.ts
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Kymani’s cable tv ",Syfy
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46685.ts
+#EXTINF:-1 tvg-id="trinitybroadcastingnetwork.us" tvg-name="TBN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_dark_360w_270h.png" group-title="Kymani’s cable tv ",TBN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21895.ts
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Kymani’s cable tv ",TBS
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20867.ts
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69639_dark_360w_270h.png" group-title="Kymani’s cable tv ",The Country Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/137791.ts
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="The Cowboy Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10188_dark_360w_270h.png" group-title="Kymani’s cable tv ",The Cowboy Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/122527.ts
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Kymani’s cable tv ",The Weather Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/18926.ts
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Kymani’s cable tv ",TLC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/12734.ts
+#EXTINF:-1 tvg-id="TNT(Pacific).us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Kymani’s cable tv ",TNT
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10455.ts
+#EXTINF:-1 tvg-id="TheTravelChannel(Pacific).us" tvg-name="Travel Channel" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" group-title="Kymani’s cable tv ",Travel Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9315.ts
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31756_dark_360w_270h.png" group-title="Kymani’s cable tv ",True Crime Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/121130.ts
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="Tru TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Kymani’s cable tv ",Tru TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10224.ts
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="Kymani’s cable tv ",TUDN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/82241.ts
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Kymani’s cable tv ",Turner Classic Movies
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66242.ts
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="Kymani’s cable tv ",TV Land
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46696.ts
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land Classic" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tv-land-logo.png" group-title="Kymani’s cable tv ",TV Land Classic
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9271.ts
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="Kymani’s cable tv ",TV One
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20868.ts
+#EXTINF:-1 tvg-id="Direct" tvg-name="TVDirect13" tvg-logo="https://www.directmediacuracao.com/og/logo.jpg" group-title="Kymani’s cable tv ",TVDirect13
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/216085.ts
+#EXTINF:-1 tvg-id="Tvj" tvg-name="TVJ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Television_Jamaica_Logo_%283D%29.png/revision/latest?cb=20220503101904" group-title="Kymani’s cable tv ",TVJ
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/78918.ts
+#EXTINF:-1 tvg-id="Twist" tvg-name="Twist TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Twist-logo-v2.svg/revision/latest/scale-to-width-down/250?cb=20230502142140" group-title="Kymani’s cable tv ",Twist TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/139755.ts
+#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="UniMas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="Kymani’s cable tv ",UniMas
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57969.ts
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="Kymani’s cable tv ",Universal Kids
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9235.ts
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="Kymani’s cable tv ",Univision 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/15336.ts
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="Up TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44940_dark_360w_270h.png" group-title="Kymani’s cable tv ",Up TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10525.ts
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Kymani’s cable tv ",USA Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10252.ts
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Kymani’s cable tv ",VH1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/7404.ts
+#EXTINF:-1 tvg-id="vice.us" tvg-name="VICELAND" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Kymani’s cable tv ",VICELAND
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46697.ts
+#EXTINF:-1 tvg-id="WAPAAmerica(Spanish).us" tvg-name="WAPA America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63389_dark_360w_270h.png" group-title="Kymani’s cable tv ",WAPA America
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/76481.ts
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="Kymani’s cable tv ",WE tv
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9237.ts
+#EXTINF:-1 tvg-id="AandE(English).ca" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55097_dark_360w_270h.png" group-title="🇨🇦 Canada ",A&E
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57476.ts
+#EXTINF:-1 tvg-id="AMC(English).ca" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64831_dark_360w_270h.png" group-title="🇨🇦 Canada ",AMC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57376.ts
+#EXTINF:-1 tvg-id="AnimalPlanet(English).ca" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74041_dark_360w_270h.png" group-title="🇨🇦 Canada ",Animal Planet
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57377.ts
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="APTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/APTN_1999.svg/revision/latest/scale-to-width-down/200?cb=20220201155544" group-title="🇨🇦 Canada ",APTN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57320.ts
+#EXTINF:-1 tvg-id="BBCEarth(English).ca" tvg-name="BBC EARTH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53128_dark_360w_270h.png" group-title="🇨🇦 Canada ",BBC EARTH
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99621.ts
+#EXTINF:-1 tvg-id="BBCWorldNews(MiddleEast)(src01).uk" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/1280px-BBC_World_News_2022.svg.png" group-title="🇨🇦 Canada ",BBC World News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/139752.ts
+#EXTINF:-1 tvg-id="BNNBloomberg(English).ca" tvg-name="BNN Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73963_dark_360w_270h.png" group-title="🇨🇦 Canada ",BNN Bloomberg
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57358.ts
+#EXTINF:-1 tvg-id="Bravo(English).ca" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1280px-Bravo_TV.svg.png" group-title="🇨🇦 Canada ",Bravo
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57366.ts
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="🇨🇦 Canada ",Cartoon Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57380.ts
+#EXTINF:-1 tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71733_dark_360w_270h.png" group-title="🇨🇦 Canada ",CBC Edmonton
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57384.ts
+#EXTINF:-1 tvg-id="CBMTCBCMontreal(English).ca" tvg-name="CBC Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/CBMT-DT_logo.png" group-title="🇨🇦 Canada ",CBC Montreal
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57387.ts
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CBC NEWS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10094_dark_360w_270h.png" group-title="🇨🇦 Canada ",CBC NEWS NETWORK
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57304.ts
+#EXTINF:-1 tvg-id="CBCVancouver(English).ca" tvg-name="CBC Vancouver" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51981_dark_360w_270h.png" group-title="🇨🇦 Canada ",CBC Vancouver
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57391.ts
+#EXTINF:-1 tvg-id="CHCH(English).ca" tvg-name="CHCH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10112_dark_360w_270h.png" group-title="🇨🇦 Canada ",CHCH
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57393.ts
+#EXTINF:-1 tvg-id="chrg" tvg-name="CHRGD" tvg-logo="https://static.wikia.nocookie.net/slugterra/images/e/e5/Family-chrgd-logo.png/revision/latest/thumbnail/width/360/height/360?cb=20151004161228" group-title="🇨🇦 Canada ",CHRGD
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/75653.ts
+#EXTINF:-1 tvg-id="CityNews247(English).ca" tvg-name="City News Toronto ON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123035_dark_360w_270h.png" group-title="🇨🇦 Canada ",City News Toronto ON
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/216100.ts
+#EXTINF:-1 tvg-id="CitytvWinnipeg(English).ca" tvg-name="CITY TV " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10125_dark_360w_270h.png" group-title="🇨🇦 Canada ",CITY TV 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/100631.ts
+#EXTINF:-1 tvg-id="CitytvCalgary(English).ca" tvg-name="CITY TV CALGARY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69551_dark_360w_270h.png" group-title="🇨🇦 Canada ",CITY TV CALGARY
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/75652.ts
+#EXTINF:-1 tvg-id="CitytvVancouver(English).ca" tvg-name="CITY TV VANCOUVER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67476_dark_360w_270h.png" group-title="🇨🇦 Canada ",CITY TV VANCOUVER
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57395.ts
+#EXTINF:-1 tvg-id="CMT(English).ca" tvg-name="CMT" tvg-logo="https://seeklogo.com/images/C/cmt-logo-7F01BEE052-seeklogo.com.png" group-title="🇨🇦 Canada ",CMT
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57258.ts
+#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="🇨🇦 Canada ",CNN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57398.ts
+#EXTINF:-1 tvg-id="CookingChannel(English).ca" tvg-name="COOKING Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71348_dark_360w_270h.png" group-title="🇨🇦 Canada ",COOKING Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/107960.ts
+#EXTINF:-1 tvg-id="CottageLife(English).ca" tvg-name="Cottage Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68012_dark_360w_270h.png" group-title="🇨🇦 Canada ",Cottage Life
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47217.ts
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CP24" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="🇨🇦 Canada ",CP24
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57345.ts
+#EXTINF:-1 tvg-id="cpa" tvg-name="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="🇨🇦 Canada ",CPAC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57351.ts
+#EXTINF:-1 tvg-id="Crave1(English).ca" tvg-name="CRAVE 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33382_dark_360w_270h.png" group-title="🇨🇦 Canada ",CRAVE 1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57309.ts
+#EXTINF:-1 tvg-id="Crave2(English).ca" tvg-name="CRAVE 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65988_dark_360w_270h.png" group-title="🇨🇦 Canada ",CRAVE 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57310.ts
+#EXTINF:-1 tvg-id="Crave3(English).ca" tvg-name="CRAVE 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65990_dark_360w_270h.png" group-title="🇨🇦 Canada ",CRAVE 3
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57322.ts
+#EXTINF:-1 tvg-id="Crave4(English).ca" tvg-name="CRAVE 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png" group-title="🇨🇦 Canada ",CRAVE 4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57311.ts
+#EXTINF:-1 tvg-id="CrimePlusInvestigation(English).ca" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26773_dark_360w_270h.png" group-title="🇨🇦 Canada ",CRIME & INVESTIGATION
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57256.ts
+#EXTINF:-1 tvg-id="ctv2barrie.ca" tvg-name="CTV " tvg-logo="https://seeklogo.com/images/C/ctv-logo-B8C00AD577-seeklogo.com.png" group-title="🇨🇦 Canada ",CTV 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57373.ts
+#EXTINF:-1 tvg-id="CTVEdmonton(English).ca" tvg-name="CTV " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/58725.ts
+#EXTINF:-1 tvg-id="CTVTwoAtlantic(English).ca" tvg-name="CTV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10135_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/79547.ts
+#EXTINF:-1 tvg-id="CTVVancouver(English).ca" tvg-name="CTV 2 Vancouver" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44786_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV 2 Vancouver
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57316.ts
+#EXTINF:-1 tvg-id="CTVCOMEDYCHANNEL(English).ca" tvg-name="CTV Comedy Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76863_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV Comedy Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57408.ts
+#EXTINF:-1 tvg-id="CTVDRAMACHANNEL(English).ca" tvg-name="CTV Drama Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73549_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV Drama Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57254.ts
+#EXTINF:-1 tvg-id="CTVLIFECHANNEL(English).ca" tvg-name="CTV LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82984_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV LIFE
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/116506.ts
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV NEWS CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76921_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV NEWS CHANNEL
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57350.ts
+#EXTINF:-1 tvg-id="CTVSCIFICHANNEL(English).ca" tvg-name="CTV Sci-Fi Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72484_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV Sci-Fi Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57253.ts
+#EXTINF:-1 tvg-id="CTVToronto(English).ca" tvg-name="CTV Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44784_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV Toronto
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47296.ts
+#EXTINF:-1 tvg-id="CTVWinnipeg(English).ca" tvg-name="CTV Winnipeg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72769_dark_360w_270h.png" group-title="🇨🇦 Canada ",CTV Winnipeg
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/100630.ts
+#EXTINF:-1 tvg-id="DejaView(English).ca" tvg-name="Dejaview" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26873_dark_360w_270h.png" group-title="🇨🇦 Canada ",Dejaview
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/122001.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel(English).ca" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72638_dark_360w_270h.png" group-title="🇨🇦 Canada ",Discovery Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57252.ts
+#EXTINF:-1 tvg-id="DiscoveryScience(English).ca" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76887_dark_360w_270h.png" group-title="🇨🇦 Canada ",Discovery Science
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57418.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="🇨🇦 Canada ",Disney Junior
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57349.ts
+#EXTINF:-1 tvg-id="DisneyXD(English).ca" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97315_dark_360w_270h.png" group-title="🇨🇦 Canada ",Disney XD
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57420.ts
+#EXTINF:-1 tvg-id="24Taas(English).ca" tvg-name="DIY NETWORK " tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/06ec7152041853.59023846eb847.png" group-title="🇨🇦 Canada ",DIY NETWORK 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47258.ts
+#EXTINF:-1 tvg-id="documentary(English).ca" tvg-name="documentary" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26784_dark_360w_270h.png" group-title="🇨🇦 Canada ",documentary
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/148610.ts
+#EXTINF:-1 tvg-id="DTour(English).ca" tvg-name="DTOUR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82747_dark_360w_270h.png" group-title="🇨🇦 Canada ",DTOUR
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57250.ts
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="🇨🇦 Canada ",E! CANADA
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57249.ts
+#EXTINF:-1 tvg-id="FamilyJr(English).ca" tvg-name="Family Jr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80695_dark_360w_270h.png" group-title="🇨🇦 Canada ",Family Jr
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57346.ts
+#EXTINF:-1 tvg-id="FoodNetwork(English).ca" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73467_dark_360w_270h.png" group-title="🇨🇦 Canada ",Food Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57247.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSterQopokt37dESk7e7fsukVfvm_SHyKfSA&s" group-title="🇨🇦 Canada ",FOX NEWS
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47281.ts
+#EXTINF:-1 tvg-id="FX(English).ca" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73682_dark_360w_270h.png" group-title="🇨🇦 Canada ",FX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57268.ts
+#EXTINF:-1 tvg-id="FXX(English).ca" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87894_dark_360w_270h.png" group-title="🇨🇦 Canada ",FXX
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57429.ts
+#EXTINF:-1 tvg-id="GameShowNetwork(English).ca" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68827_dark_360w_270h.png" group-title="🇨🇦 Canada ",Game Show Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57430.ts
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="Ginx Esports TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Ginx_logo.png/revision/latest?cb=20151030203434" group-title="🇨🇦 Canada ",Ginx Esports TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57431.ts
+#EXTINF:-1 tvg-id="GlobalCalgary(English).ca" tvg-name="Global Calgary" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63639_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Calgary
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/115349.ts
+#EXTINF:-1 tvg-id="GLOBALDURHAM(English).ca" tvg-name="Global Durham" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110789_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Durham
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/100453.ts
+#EXTINF:-1 tvg-id="GlobalEdmonton(English).ca" tvg-name="Global Edmonton" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63641_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Edmonton
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/132271.ts
+#EXTINF:-1 tvg-id="GlobalMaritimes(English).ca" tvg-name="Global Maritimes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17396_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Maritimes
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/171954.ts
+#EXTINF:-1 tvg-id="GlobalMontreal(English).ca" tvg-name="Global Montreal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72865_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Montreal
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/136640.ts
+#EXTINF:-1 tvg-id="GlobalEdmonton(English).ca" tvg-name="Global News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/2560px-Global_News.svg.png" group-title="🇨🇦 Canada ",Global News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/58724.ts
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="Global Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44792_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Toronto
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57302.ts
+#EXTINF:-1 tvg-id="GlobalBC(English).ca" tvg-name="Global Vancouver" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60121_dark_360w_270h.png" group-title="🇨🇦 Canada ",Global Vancouver
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57436.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="🇨🇦 Canada ",Golf Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57362.ts
+#EXTINF:-1 tvg-id="HBO(West)(English).ca" tvg-name="HBO " tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png" group-title="🇨🇦 Canada ",HBO 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57437.ts
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61777_dark_360w_270h.png" group-title="🇨🇦 Canada ",HBO 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57438.ts
+#EXTINF:-1 tvg-id="HGTV(English).ca" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70676_dark_360w_270h.png" group-title="🇨🇦 Canada ",HGTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57273.ts
+#EXTINF:-1 tvg-id="History(English).ca" tvg-name="HISTORY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17593_dark_360w_270h.png" group-title="🇨🇦 Canada ",HISTORY
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47302.ts
+#EXTINF:-1 tvg-id="HISTORY2(English).ca" tvg-name="HIstory 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_dark_360w_270h.png" group-title="🇨🇦 Canada ",HIstory 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/210450.ts
+#EXTINF:-1 tvg-id="HLN(English).ca" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64549_dark_360w_270h.png" group-title="🇨🇦 Canada ",HLN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57441.ts
+#EXTINF:-1 tvg-id="HPItv(English).ca" tvg-name="HPITV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106035_dark_360w_270h.png" group-title="🇨🇦 Canada ",HPITV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/173131.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).ca" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76799_dark_360w_270h.png" group-title="🇨🇦 Canada ",Investigation Discovery
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57442.ts
+#EXTINF:-1 tvg-id="Lifetime(English).ca" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81202_dark_360w_270h.png" group-title="🇨🇦 Canada ",Lifetime
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57271.ts
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="Lifetime Movie Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/LMN_logo.png/640px-LMN_logo.png" group-title="🇨🇦 Canada ",Lifetime Movie Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57444.ts
+#EXTINF:-1 tvg-id="LoveNature(src01).ca" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="🇨🇦 Canada ",Love Nature
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47324.ts
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="MAKEFUL" tvg-logo="https://tv.bemakeful.com/wp-content/uploads/2018/09/makeful-logo-black.png" group-title="🇨🇦 Canada ",MAKEFUL
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57270.ts
+#EXTINF:-1 tvg-id="MovieTime(English).ca" tvg-name="MOVIETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67190_dark_360w_270h.png" group-title="🇨🇦 Canada ",MOVIETIME
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47331.ts
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="🇨🇦 Canada ",MSNBC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47332.ts
+#EXTINF:-1 tvg-id="MTV(English).ca" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81615_dark_360w_270h.png" group-title="🇨🇦 Canada ",MTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57446.ts
+#EXTINF:-1 tvg-id="mtv2.ca" tvg-name="MTV2" tvg-logo="https://preview.redd.it/8y4r4v2ioyx81.png?width=500&format=png&auto=webp&s=ed35a6b09bbdc888d8e4251685091405ce9b7331" group-title="🇨🇦 Canada ",MTV2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57447.ts
+#EXTINF:-1 tvg-id="NationalGeographic(English).ca" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54743_dark_360w_270h.png" group-title="🇨🇦 Canada ",NATIONAL GEOGRAPHIC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47339.ts
+#EXTINF:-1 tvg-id="NationalGeographicWild(English).ca" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75451_dark_360w_270h.png" group-title="🇨🇦 Canada ",National Geographic Wild
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57280.ts
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="NFL NETWORK" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz" group-title="🇨🇦 Canada ",NFL NETWORK
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47346.ts
+#EXTINF:-1 tvg-id="Nickelodeon(English).ca" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80175_dark_360w_270h.png" group-title="🇨🇦 Canada ",Nickelodeon
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47349.ts
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="NTV St. John`s" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="🇨🇦 Canada ",NTV St. John`s
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57478.ts
+#EXTINF:-1 tvg-id="OMNI1(English).ca" tvg-name="OMNI1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44788_dark_360w_270h.png" group-title="🇨🇦 Canada ",OMNI1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57365.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.ca" tvg-name="OWN" tvg-logo="https://static.oprah.com/2024/06/OWN_logo_400x400-1719269424.png" group-title="🇨🇦 Canada ",OWN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57277.ts
+#EXTINF:-1 tvg-id="WPBS(English).ca" tvg-name="PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="🇨🇦 Canada ",PBS
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57276.ts
+#EXTINF:-1 tvg-id="pe" tvg-name="Peachtree TV" tvg-logo="https://www.thebguide.com/wp-content/uploads/2017/03/PEACHTREE-TV-LOGO.png" group-title="🇨🇦 Canada ",Peachtree TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47362.ts
+#EXTINF:-1 tvg-id="Showcase(English).ca" tvg-name="Showcase" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53711_dark_360w_270h.png" group-title="🇨🇦 Canada ",Showcase
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47366.ts
+#EXTINF:-1 tvg-id="SilverScreenClassics(English).ca" tvg-name="Silver Screen" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34290_dark_360w_270h.png" group-title="🇨🇦 Canada ",Silver Screen
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/107190.ts
+#EXTINF:-1 tvg-id="SLICE(English).ca" tvg-name="Slice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81282_dark_360w_270h.png" group-title="🇨🇦 Canada ",Slice TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57274.ts
+#EXTINF:-1 tvg-id="SmithsonianChannel(English).ca" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53121_dark_360w_270h.png" group-title="🇨🇦 Canada ",Smithsonian Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/47369.ts
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome(English).ca" tvg-name="Super Channel Heart & Home" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58890_dark_360w_270h.png" group-title="🇨🇦 Canada ",Super Channel Heart & Home
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/100460.ts
+#EXTINF:-1 tvg-id="TFO(French).ca" tvg-name="TFO  " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66005_dark_360w_270h.png" group-title="🇨🇦 Canada ",TFO  
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57291.ts
+#EXTINF:-1 tvg-id="todaysshoppingch" tvg-name="The Shopping Channel" tvg-logo="https://www.exchangesolutions.com/wp-content/uploads/2019/07/logo_TSC_350x220.png" group-title="🇨🇦 Canada ",The Shopping Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57370.ts
+#EXTINF:-1 tvg-id="TheLearningChannel(English).ca" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60645_dark_360w_270h.png" group-title="🇨🇦 Canada ",TLC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57290.ts
+#EXTINF:-1 tvg-id="TravelXP(English).ca" tvg-name="Travel Escape" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102574_dark_360w_270h.png" group-title="🇨🇦 Canada ",Travel Escape
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/108136.ts
+#EXTINF:-1 tvg-id="Treehouse(English).ca" tvg-name="Treehouse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80173_dark_360w_270h.png" group-title="🇨🇦 Canada ",Treehouse
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57371.ts
+#EXTINF:-1 tvg-id="TVO(English).ca" tvg-name="TV Ontario" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70583_dark_360w_270h.png" group-title="🇨🇦 Canada ",TV Ontario
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57369.ts
+#EXTINF:-1 tvg-id="VisionTV(English).ca" tvg-name="Vision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102146_dark_360w_270h.png" group-title="🇨🇦 Canada ",Vision
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57468.ts
+#EXTINF:-1 tvg-id="WNetwork(English).ca" tvg-name="W Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15024_dark_360w_270h.png" group-title="🇨🇦 Canada ",W Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57284.ts
+#EXTINF:-1 tvg-id="TheWeatherNetwork(English).ca" tvg-name="Weather Network Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72183_dark_360w_270h.png" group-title="🇨🇦 Canada ",Weather Network Toronto
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57470.ts
+#EXTINF:-1 tvg-id="WILDTV(English).ca" tvg-name="WILD TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66357_dark_360w_270h.png" group-title="🇨🇦 Canada ",WILD TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/100456.ts
+#EXTINF:-1 tvg-id="worldf" tvg-name="World Fishing Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD6r6apdW7OUwP_J8NZK8WzTohHniZNQTjZQ&s" group-title="🇨🇦 Canada ",World Fishing Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57471.ts
+#EXTINF:-1 tvg-id="YesTV(English).ca" tvg-name="YES TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60344_dark_360w_270h.png" group-title="🇨🇦 Canada ",YES TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57472.ts
+#EXTINF:-1 tvg-id="YTV(English).ca" tvg-name="YTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70827_dark_360w_270h.png" group-title="🇨🇦 Canada ",YTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/63850.ts
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="Alibi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75803_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Alibi
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/59030.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News" tvg-logo="https://media.info/l/o/1/1043.1665353056.png" group-title="🇬🇧 United Kingdom ",BBC News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53757.ts
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://static.wikia.nocookie.net/logopedia-fanon/images/c/ce/BBC_One.png/revision/latest/scale-to-width-down/300?cb=20240321143621" group-title="🇬🇧 United Kingdom ",BBC One
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53649.ts
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="BBC Three" tvg-logo="https://storage.googleapis.com/freesat-production-assets/styles/body_image_max/cloud-storage/inline-images/25602.PNG?itok=Gi6q0V1F" group-title="🇬🇧 United Kingdom ",BBC Three
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53720.ts
+#EXTINF:-1 tvg-id="BBC2(England).uk" tvg-name="BBC Two" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68113_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",BBC Two
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53650.ts
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="Blaze" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101972_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Blaze
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53754.ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24341_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Boomerang
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53718.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78843_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Cartoon Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53719.ts
+#EXTINF:-1 tvg-id="CBSJustice(src04).za" tvg-name="CBS JUSTICE" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" group-title="🇬🇧 United Kingdom ",CBS JUSTICE
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/134942.ts
+#EXTINF:-1 tvg-id="CBSReality(src01).uk" tvg-name="CBS Reality" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2023/12/40_image.png" group-title="🇬🇧 United Kingdom ",CBS Reality
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53752.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17155_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Channel 4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99138.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17157_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Channel 5
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53653.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Animation
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119420.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Blockbusters" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Blockbusters
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119421.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Classic
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119422.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Comedy
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119423.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Cult" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Cult
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119424.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Family" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Family
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119425.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Greats" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Greats
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119426.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Greats Two" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Greats Two
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119427.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Historical" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Historical
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119428.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Hits
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119436.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Musical" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Musical
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119430.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Mystery
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119431.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Premiere
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119432.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Romance" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Romance
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119433.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Sci-Fi
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119434.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Thriller
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119437.ts
+#EXTINF:-1 tvg-id="InspirationTV.uk" tvg-name="Cinebox Western" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Cinebox Western
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/119435.ts
+#EXTINF:-1 tvg-id="ComedyCentral(src01).uk" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_Cin%C3%A9box.svg/1200px-Logo_Cin%C3%A9box.svg.png" group-title="🇬🇧 United Kingdom ",Comedy Central
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53660.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="Crime & Investigation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61621_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Crime & Investigation
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53689.ts
+#EXTINF:-1 tvg-id="Dave(src01).uk" tvg-name="Dave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dave.svg/2560px-Dave.svg.png" group-title="🇬🇧 United Kingdom ",Dave
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53659.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49613_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Discovery Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53684.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="Discovery History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Discovery History
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53694.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Discovery Science
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53695.ts
+#EXTINF:-1 tvg-id="Drama(src01).uk" tvg-name="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/U%26Drama_%282024%29.svg/2560px-U%26Drama_%282024%29.svg.png" group-title="🇬🇧 United Kingdom ",Drama
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53677.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25117_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",E4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53672.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Film 4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53702.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62496_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Investigation Discovery
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53687.ts
+#EXTINF:-1 tvg-id="ITV1(Anglia).uk" tvg-name="ITV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ITV1_2022.svg/revision/latest/scale-to-width-down/284?cb=20221115050938" group-title="🇬🇧 United Kingdom ",ITV 1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53651.ts
+#EXTINF:-1 tvg-id="ITV1(Anglia).uk" tvg-name="ITV 2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/eb/Itv_2.png/revision/latest?cb=20140108230025" group-title="🇬🇧 United Kingdom ",ITV 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53671.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44643_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",ITV 3
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53665.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48020_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",ITV 4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53666.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="More4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",More4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53673.ts
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",MTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53737.ts
+#EXTINF:-1 tvg-id="MTVClassic(src01).uk" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="🇬🇧 United Kingdom ",MTV Classic
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53734.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="MTV Hits" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",MTV Hits
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53735.ts
+#EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-name="MUTV" tvg-logo="https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/teams/164/21.png" group-title="🇬🇧 United Kingdom ",MUTV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53717.ts
+#EXTINF:-1 tvg-id="NatGeoWild(src01).uk" tvg-name="Nat Geo Wild" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/04/Nat_Geo_Wild_Logo_2006.png/revision/latest?cb=20190702030207" group-title="🇬🇧 United Kingdom ",Nat Geo Wild
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53693.ts
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="NICKELODEON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17419_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",NICKELODEON
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53728.ts
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33638_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Pop
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53730.ts
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="Quest" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Quest
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53682.ts
+#EXTINF:-1 tvg-id="RTE1Network.uk" tvg-name="RTE NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25554_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",RTE NEWS
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/79108.ts
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky cinema Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24031_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Sky cinema Action
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35254.ts
+#EXTINF:-1 tvg-id="SkyAnimation(src01).uk" tvg-name="Sky Cinema Animation" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/06/SKY-CINEMA-ANIMATION-June-2020.png" group-title="🇬🇧 United Kingdom ",Sky Cinema Animation
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53698.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Sky Cinema Comedy
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53661.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="SKY CINEMA DRAMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",SKY CINEMA DRAMA
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35251.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24040_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Sky Cinema Family
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53699.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Sky Cinema Premier
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35256.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="Sky Cinema Scifi & Horror FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24041_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Sky Cinema Scifi & Horror FHD
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35248.ts
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",SKY COMEDY
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35253.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="SKY CRIME THRILLER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56140_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",SKY CRIME THRILLER
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35252.ts
+#EXTINF:-1 tvg-id="SkyGreats(src01).uk" tvg-name="SKY GREATS" tvg-logo="https://assets.tv24.co/channels/sky-cinema-greats-l.webp" group-title="🇬🇧 United Kingdom ",SKY GREATS
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35249.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="Sky History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",Sky History
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53686.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="SKY NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",SKY NEWS
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/77166.ts
+#EXTINF:-1 tvg-id="SyFy(src01).uk" tvg-name="SKY SciFI FHD (D)" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2022/07/logo-SKY-SCIFI-WEBSITE-CHANNEL-PAGE.png" group-title="🇬🇧 United Kingdom ",SKY SciFI FHD (D)
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53663.ts
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79654_dark_360w_270h.png" group-title="🇬🇧 United Kingdom ",TLC
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53681.ts
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="ACC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="⚽️ Sports",ACC Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9273.ts
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Altitude_Sports_logo.svg/1200px-Altitude_Sports_logo.svg.png" group-title="⚽️ Sports",Altitude Sports
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/79545.ts
+#EXTINF:-1 tvg-id="ATandTUverseFrontRow.us" tvg-name="AT&T SportsNet Pittsburgh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/AT%26T_SportsNet_Logo.png" group-title="⚽️ Sports",AT&T SportsNet Pittsburgh
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/108178.ts
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54286_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports Detroit
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20936.ts
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="Bally Sports Great Lake" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49848_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports Great Lake
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/139272.ts
+#EXTINF:-1 tvg-id="BallySportsOhio1(Clevelandfeed).us" tvg-name="Bally Sports Ohio" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11106_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports Ohio
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17752.ts
+#EXTINF:-1 tvg-id="BallySportsSouthwest(MainFeed).us" tvg-name="Bally Sports Southwest" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10262_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports Southwest
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21843.ts
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="Bally Sports Sun" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61084_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports Sun
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/104917.ts
+#EXTINF:-1 tvg-id="BallySports(West).us" tvg-name="Bally Sports West" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59627_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports West
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20932.ts
+#EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65460_dark_360w_270h.png" group-title="⚽️ Sports",Bally Sports Wisconsin
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/78599.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEin Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="⚽️ Sports",BEin Sports
+https://webhdrunns.mizhls.ru/lb/premium425/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Sports En Espanol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-espanol-us.png" group-title="⚽️ Sports",Bein Sports En Espanol
+https://webhdrunns.mizhls.ru/lb/premium372/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="Big Ten" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="⚽️ Sports",Big Ten
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9828.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="⚽️ Sports",CBS Sports Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10454.ts
+#EXTINF:-1 tvg-id="DAZN1(English).de" tvg-name="Dazn " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="⚽️ Sports",Dazn 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35264.ts
+#EXTINF:-1 tvg-id="ESPNCaribbean(English).pr" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="⚽️ Sports",ESPN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66372.ts
+#EXTINF:-1 tvg-id="ESPN2Caribbean(English).do" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽️ Sports",ESPN 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99623.ts
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="⚽️ Sports",ESPN News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17707.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="ESPN SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="⚽️ Sports",ESPN SEC Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/17608.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="⚽️ Sports",ESPN U
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10255.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="EuroSport " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60821_dark_360w_270h.png" group-title="⚽️ Sports",EuroSport 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53713.ts
+#EXTINF:-1 tvg-id="FightSports(English).pr" tvg-name="Fight Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100285_dark_360w_270h.png" group-title="⚽️ Sports",Fight Sports
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/65697.ts
+#EXTINF:-1 tvg-id="FlowTV(src01).uk" tvg-name="Flow Sports" tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/flowsports_icon.png" group-title="⚽️ Sports",Flow Sports
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/79544.ts
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="Fox Soccer Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Fox_Soccer_Plus.png/revision/latest?cb=20111202002152" group-title="⚽️ Sports",Fox Soccer Plus
+https://webhdrunns.mizhls.ru/lb/premium756/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="FOXSports1.mx" tvg-name="Fox Sports " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="⚽️ Sports",Fox Sports 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/1846.ts
+#EXTINF:-1 tvg-id="FoxSports2.do" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="⚽️ Sports",Fox Sports 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/1847.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="⚽️ Sports",Golf Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9806.ts
+#EXTINF:-1 tvg-id="LiverpoolFCTV(src01).uk" tvg-name="Liverpool Tv" tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="⚽️ Sports",Liverpool Tv
+https://webhdrunns.mizhls.ru/lb/premium826/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="⚽️ Sports",Marquee Sports Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/13379.ts
+#EXTINF:-1 tvg-id="MavTV.us" tvg-name="MAV TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61036_dark_360w_270h.png" group-title="⚽️ Sports",MAV TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20977.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="⚽️ Sports",MLB Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21360.ts
+#EXTINF:-1 tvg-id="MLBStrikeZoneMLBSZ1.us" tvg-name="MLB Strike Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55659_dark_360w_270h.png" group-title="⚽️ Sports",MLB Strike Zone
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/65699.ts
+#EXTINF:-1 tvg-id="MSG(Altfeed)MSG2OVERFLOW.us" tvg-name="MSG" tvg-logo="https://static.wikia.nocookie.net/icehockey/images/5/59/MSG_Network_logo.png/revision/latest/scale-to-width-down/390?cb=20190516202402" group-title="⚽️ Sports",MSG
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21090.ts
+#EXTINF:-1 tvg-id="MSG(Altfeed)MSG2OVERFLOW.us" tvg-name="MSG Plus" tvg-logo="https://images.fubo.tv/station_logos/MSGSN2_m.png?ch=width&auto=format%2Ccompress&w=0.4&h=0.4" group-title="⚽️ Sports",MSG Plus
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9276.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="⚽️ Sports",NBA TV
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20073.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="⚽️ Sports",NBC Sports Bay Area
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9900.ts
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="⚽️ Sports",NBC Sports Boston
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20939.ts
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaSAT.us" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44917_dark_360w_270h.png" group-title="⚽️ Sports",NBC Sports California
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20940.ts
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44905_dark_360w_270h.png" group-title="⚽️ Sports",NBC Sports Chicago
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20941.ts
+#EXTINF:-1 tvg-id="CNBCStream.us" tvg-name="NBC Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/NBCSportsNetworkLogo.svg/revision/latest/scale-to-width-down/250?cb=20151020010947" group-title="⚽️ Sports",NBC Sports Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/46725.ts
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Philly" tvg-logo="https://img.nbc.com/files/2024-08/nbcsports-philadelphia-logo-color-378x300.png" group-title="⚽️ Sports",NBC Sports Philly
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20943.ts
+#EXTINF:-1 tvg-id="nbcsports" tvg-name="NBC Sports Washington" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-washington-us.png?raw=true" group-title="⚽️ Sports",NBC Sports Washington
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20944.ts
+#EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="⚽️ Sports",NESN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/31637.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="⚽️ Sports",NFL NETWORK 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/159091.ts
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="https://wallpapers.com/images/hd/n-f-l-red-zone-network-logo-k7n1033lyemsa7rz-2.jpg" group-title="⚽️ Sports",NFL RedZone
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/159120.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="⚽️ Sports",NHL Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20179.ts
+#EXTINF:-1 tvg-id="Soccer" tvg-name="One Soccer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/OneSoccer_logo.svg/1200px-OneSoccer_logo.svg.png" group-title="⚽️ Sports",One Soccer
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/135810.ts
+#EXTINF:-1 tvg-id="ROOTSports(Northwest).us" tvg-name="Root Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11062_dark_360w_270h.png" group-title="⚽️ Sports",Root Sports Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/85232.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUSH Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" group-title="⚽️ Sports",RUSH Sports
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/100043.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKY Soorts RACING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30505_dark_360w_270h.png" group-title="⚽️ Sports",SKY Soorts RACING
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/76842.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="SKY Sports Arena" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104322_dark_360w_270h.png" group-title="⚽️ Sports",SKY Sports Arena
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/137719.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19036_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Cricket
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/45940.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74410_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports F1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/125947.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104325_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Football 
+https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24216_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Golf
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35240.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event " tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17744_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Main Event 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/137720.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100264_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Mix
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53706.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68347_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports News
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/35241.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports NFL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19038_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports NFL
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53705.ts
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Premier League
+https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Top Event" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17744_dark_360w_270h.png" group-title="⚽️ Sports",Sky Sports Top Event
+https://webhdrunns.mizhls.ru/lb/premium556/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="⚽️ Sports",Space City
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/136909.ts
+#EXTINF:-1 tvg-id="Sportsma" tvg-name="SPORT MAX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Sports_Max_Logo.png" group-title="⚽️ Sports",SPORT MAX 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99569.ts
+#EXTINF:-1 tvg-id="Sportsmax" tvg-name="SPORT MAX 2" tvg-logo="https://i.imgur.com/umd4Q61.png" group-title="⚽️ Sports",SPORT MAX 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/78917.ts
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="Sportsnet 360" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/SportsNet_360.png" group-title="⚽️ Sports",Sportsnet 360
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/2219.ts
+#EXTINF:-1 tvg-id="SpectrumNoticiasNY1(Spanish).us" tvg-name="Sportsnet New York " tvg-logo="https://www.sportsnet.ca/_next/static/media/logo-sn.50af1705.png" group-title="⚽️ Sports",Sportsnet New York 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20938.ts
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/SportsNet_One.png" group-title="⚽️ Sports",Sportsnet One
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10247.ts
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/SportsNet_Ontario.png" group-title="⚽️ Sports",Sportsnet Ontario
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/11649.ts
+#EXTINF:-1 tvg-id="Sportsnet(Pacific)(English).ca" tvg-name="Sportsnet Pacific" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/SportsNet_Pacific.png" group-title="⚽️ Sports",Sportsnet Pacific
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/9860.ts
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="Sportsnet World" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/SportsNet_World.png" group-title="⚽️ Sports",Sportsnet World
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/75675.ts
+#EXTINF:-1 tvg-id="Supersport" tvg-name="SuperSport Action" tvg-logo="https://devcdn.24.co.za/files/supersport/210.png" group-title="⚽️ Sports",SuperSport Action
+https://webhdrunns.mizhls.ru/lb/premium420/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Cricket" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png" group-title="⚽️ Sports",SuperSport Cricket
+https://webhdrunns.mizhls.ru/lb/premium368/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Football" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png" group-title="⚽️ Sports",SuperSport Football
+https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Grandstand" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/aitip41642604897.png" group-title="⚽️ Sports",SuperSport Grandstand
+https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Laliga" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dv7v9w1719404547.png" group-title="⚽️ Sports",SuperSport Laliga
+https://webhdrunns.mizhls.ru/lb/premium415/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Maximo 1" tvg-logo="https://devcdn.24.co.za/files/supersport/241.png" group-title="⚽️ Sports",SuperSport Maximo 1
+https://webhdrunns.mizhls.ru/lb/premium572/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport premier league" tvg-logo="https://devcdn.24.co.za/files/supersport/203.png" group-title="⚽️ Sports",SuperSport premier league
+https://webhdrunns.mizhls.ru/lb/premium414/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport PSI" tvg-logo="https://devcdn.24.co.za/files/supersport/202.png" group-title="⚽️ Sports",SuperSport PSI
+https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0lwdq31638048788.png" group-title="⚽️ Sports",SuperSport Variety 1
+https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 2" tvg-logo="https://i.postimg.cc/J0qpLcQy/ezgif-6-1b9deb8476fe.webp" group-title="⚽️ Sports",SuperSport Variety 2
+https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/mh03f41638048848.png" group-title="⚽️ Sports",SuperSport Variety 3
+https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jz5jpt1638048871.png" group-title="⚽️ Sports",SuperSport Variety 4
+https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="⚽️ Sports",Tennis Channel
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/20184.ts
+#EXTINF:-1 tvg-id="TNTSport1(src01).uk" tvg-name="TNT Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704071741" group-title="⚽️ Sports",TNT Sport 1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53708.ts
+#EXTINF:-1 tvg-id="TNTSport2(src01).uk" tvg-name="TNT Sport 2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="⚽️ Sports",TNT Sport 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/53709.ts
+#EXTINF:-1 tvg-id="TNTSport3(src01).uk" tvg-name="TNT Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836" group-title="⚽️ Sports",TNT Sport 3
+https://webhdrunns.mizhls.ru/lb/premium33/index.m3u8|Referer="https://lewblivehdplay.ru/"|Origin="https://lewblivehdplay.ru"|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1"
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sport 4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="⚽️ Sports",TNT Sport 4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/99622.ts
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1" tvg-logo="https://ondemo.tmsimg.com/h3/assets/s11182_ll_h3_aa.png" group-title="⚽️ Sports",TSN 1
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57292.ts
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="⚽️ Sports",TSN 2
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16129.ts
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN 3" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork3.png" group-title="⚽️ Sports",TSN 3
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10389.ts
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN 4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="⚽️ Sports",TSN 4
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16130.ts
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN 5" tvg-logo="https://autray.cooptel.ca/wp-content/uploads/2020/06/TSN5.png" group-title="⚽️ Sports",TSN 5
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/16131.ts
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="⚽️ Sports",TUDN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/21644.ts
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="TVG Network" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvg2.png" group-title="⚽️ Sports",TVG Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/18940.ts
+#EXTINF:-1 tvg-id="Tvj" tvg-name="TVJ Sports" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="⚽️ Sports",TVJ Sports
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/66077.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/640px-UFC_Logo.svg.png" group-title="⚽️ Sports",UFC 24/7
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/146291.ts
+#EXTINF:-1 tvg-id="Ufc" tvg-name="UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="⚽️ Sports",UFC Fight Pass
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/146293.ts
+#EXTINF:-1 tvg-id="vsi" tvg-name="VSiN" tvg-logo="https://lh3.googleusercontent.com/2eW5jHuHgII-HpMD8Mopje_TiNDORL9BTAMRnrS9J1hszP5ZX43ZLX4B2yEev2-Vyn6jbT-ItJ8" group-title="⚽️ Sports",VSiN
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/18941.ts
+#EXTINF:-1 tvg-id="WillowCricket(src01).us" tvg-name="Willow Cricket " tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/apps/transparent/padded/willow2.png" group-title="⚽️ Sports",Willow Cricket 
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/58847.ts
+#EXTINF:-1 tvg-id="WorldFishingNetwork(US).us" tvg-name="World Fishing Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/640px-WFN_2014_logo.svg.png" group-title="⚽️ Sports",World Fishing Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/10477.ts
+#EXTINF:-1 tvg-id="Worldpo" tvg-name="World Poker Tour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="⚽️ Sports",World Poker Tour
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/140815.ts
+#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png" group-title="⚽️ Sports",WWE Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/146294.ts
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="⚽️ Sports",YES Network
+http://cord-cutter.net:8080/live/defante@prudent.com/0218@8156/57972.ts
+
